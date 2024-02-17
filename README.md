@@ -1,2 +1,1 @@
-# PRACTICA_GIT.
-practica de git para produccion de software
+This is a README file
